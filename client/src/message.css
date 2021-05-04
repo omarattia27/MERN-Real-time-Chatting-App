@@ -1,0 +1,39 @@
+.M {
+    background: #ccc;
+    margin: 10px;
+    margin-left: auto;
+    padding: 10 px;
+    overflow: auto;
+    width: fit-content;
+    max-width: 30%;
+    height: auto;
+    text-align: left !important;
+  }
+  
+  .M_another {
+    background: #aee;
+    margin: 10px;
+    margin-right: auto;
+    padding: 10 px;
+    overflow: auto;
+    width: fit-content;
+    height: auto;
+    max-width: 30%;
+    text-align: right !important;
+  }
+  
+  .M2 {
+    background: rgb(75, 45, 209) !important;
+    margin-right: auto;
+    color: white !important;
+    height: auto;
+    text-align: left !important;
+  }
+  
+  .M1 {
+    background: rgb(200, 200, 202) !important;
+    margin-left: auto;
+    color: white !important;
+    height: auto;
+    text-align: right !important;
+  }
